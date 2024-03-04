@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.instagram.com	TRUE	/	FALSE	1999999999	ps_n	0
+.instagram.com	TRUE	/	FALSE	1999999999	ps_l	0
+www.instagram.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.euractiv.com	TRUE	/	FALSE	1999999999	__cf_bm	GvzLsjOEwp09ICjFpRQn8C0Md.xP3lV5NtNgcuieQP0-1709548924-1.0.1.1-BB0P16Uq1SylBZlv6rycfR52iCrpi5Ocigu7mw6JhPYropY1xenQMjUyzL8ol02jwP5iJxqsoHFlmGwuXV0rJw
+assets.euractiv.com	TRUE	/	FALSE	1999999999	SameSite	None
+
